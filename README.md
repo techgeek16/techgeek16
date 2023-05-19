@@ -1,6 +1,6 @@
 - <h1>Hi, I'm Titi! </h1>
 
-<h2>👨‍💻 IT/Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT/Cybersecurity/Data Analyst Projects:</h2>
 
 - [Active Directory Homelab](https://github.com/techgeek16/LABURL)
 
@@ -19,8 +19,8 @@
 [<img align="left" alt="techgeek16 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="techgeek16 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/@tititolbert
+[linkedin]: https://linkedin.com/in/titi-t
 
 <!--
 *techgeek16/techgeek16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
